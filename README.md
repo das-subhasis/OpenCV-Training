@@ -1,2 +1,3 @@
 # OpenCV-Training
-Tutorial for learning OpenCV and an application for hand gesture-based finger detection.
+
+This repo contains files that i have used to learn opencv. 
